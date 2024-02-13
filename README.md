@@ -1,8 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Oleksandr, FrontEnd developer</p>
-<p>Kyiv, Ukraine
- <img alt="" src="https://img.shields.io/badge/UKRAINE-yellow" /></p>
+<p>
+  <img alt="" src="https://img.shields.io/badge/UKRAINE-yellow" />
+</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -24,8 +25,23 @@
 <img alt="PostCSS" src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" />
 </p>
 
+I completed courses at Hillel IT-school (Frontend Pro).
+
+You can learn more about me and my work on my portfolio website: https://portfolio-krasulia.vercel.app/
+
+I am currently working on a startup project. Organizer planner - it will be an application for Google Chrome 
+
 <div>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/sanio17" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/sanio17" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/sanio17" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
 </div>
+
+
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻"
+    </p>
+</samp>
